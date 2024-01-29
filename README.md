@@ -24,7 +24,7 @@ Creating VMFoodFiesta, my own online food ordering website with HTML and CSS, is
    - Explicitly stating on the website that VMFoodFiesta is a project developed for learning purposes, emphasizing its independence from and lack of endorsement by any existing food platforms.
 
 7. **Website Link:**
-   - Displaying the project at [VMFoodFiesta](https://iamvny.github.io/VMFoodFiesta-/), for others to explore and interact with. This link showcases my coding skills and the features implemented in VMFoodFiesta.
+   - Displaying the project at [VMFoodFiesta](https://iamvny.github.io/Online-Food-Ordering-Sytem-VMFoodFiesta/), for others to explore and interact with. This link showcases my coding skills and the features implemented in VMFoodFiesta.
 
 Creating VMFoodFiesta is not just about replicating existing designs but a unique opportunity to infuse creativity and showcase my individuality in the realm of online food ordering. If there are specific questions or areas where assistance is needed, feel free to ask. 😊🚀
 
